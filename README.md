@@ -9,7 +9,7 @@ The algorithm counts the number of trees visible from each of the four direction
 # Usage
 To use this script, follow these steps:
 
-Clone or download this repository to your local machine.
-Open the file tree_count.php in a text editor or IDE.
-Modify the $map variable to contain the grid of tree heights you want to analyze.
-Run the script using a PHP interpreter or web server.
+- Clone or download this repository to your local machine.
+- Open the file tree_count.php in a text editor or IDE.
+- Modify the $map variable to contain the grid of tree heights you want to analyze.
+- Run the script using a PHP interpreter or web server.
